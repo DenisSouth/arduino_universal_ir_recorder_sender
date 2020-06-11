@@ -2,6 +2,8 @@
 
 <img src="arduino.gif" alt="arduino" height="300">
 
+https://gist.github.com/jeje/3059272
+
 https://www.digchip.com/datasheets/parts/datasheet/513/TSOP4836-pdf.php
 
   - Record - may copy any RI remote control
