@@ -1,6 +1,6 @@
 #include <avr/pgmspace.h>
 
-int IRledPin =  3;
+int IRledPin =  7;
 unsigned int displayInt;
 
 void setup(){                
@@ -41,7 +41,7 @@ delay(1000);
 
 send_data(cold23, sizeof(cold23) / sizeof(cold23[0]));
 delay(1000);
-
+Serial.println("1");
 send_data(fan, sizeof(fan) / sizeof(fan[0]));
 delay(1000);
 
