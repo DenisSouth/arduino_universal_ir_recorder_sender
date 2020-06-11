@@ -2,7 +2,9 @@
 
 <img src="arduino.gif" alt="arduino" height="300">
 
+##### originals
 https://gist.github.com/jeje/3059272
+https://github.com/adafruit/Nikon-Intervalometer/issues/1
 
 https://www.digchip.com/datasheets/parts/datasheet/513/TSOP4836-pdf.php
 
