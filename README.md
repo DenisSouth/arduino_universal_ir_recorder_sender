@@ -2,7 +2,7 @@
 
 <img src="arduino.gif" alt="arduino" height="300">
 
-<img src="ir.png" alt="ir" height="300">
+<img src="ir.png" alt="ir" height="150">
 
 
 ##### originals
